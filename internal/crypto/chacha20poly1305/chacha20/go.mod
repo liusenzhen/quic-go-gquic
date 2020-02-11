@@ -1,4 +1,4 @@
-module chacha20
+module github.com/lucas-clemente/quic-go/internal/crypto/chacha20poly1305/chacha20
 
 go 1.12
 
